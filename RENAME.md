@@ -98,7 +98,7 @@ $ cd latihan1``
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
-![Screenshot (39)](https://user-images.githubusercontent.com/66506609/95936476-da95bd00-0dff-11eb-826d-c7b34e2c45fc.png)
+![5](https://user-images.githubusercontent.com/72733261/96359393-b1956500-113c-11eb-8e1e-12f0aad94e19.PNG)
 
 
 ### Membuat repository server
@@ -128,7 +128,8 @@ $ cd latihan1``
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-![Screenshot (41)](https://user-images.githubusercontent.com/66506609/95936958-eafa6780-0e00-11eb-85fa-262b7f92ef40.png)
+
+![6](https://user-images.githubusercontent.com/72733261/96359415-e7d2e480-113c-11eb-888d-2a47f1e9c6be.PNG)
 
 
 ### Clone Repository
@@ -136,7 +137,7 @@ $ cd latihan1``
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
-![Screenshot (59)](https://user-images.githubusercontent.com/66506609/96254417-76c9ea80-0fdf-11eb-8af2-15adba4f4c33.png)
+![gitclone](https://user-images.githubusercontent.com/72733261/96359432-0b962a80-113d-11eb-8db3-5e1b5fb4e56a.PNG)
 
 ### Kegunaan file README.md
 
@@ -147,7 +148,7 @@ $ cd latihan1``
 
 
 
-### Author : Ba'do Febriansyah
+### Ba'do Febriansyah
 
 
 
