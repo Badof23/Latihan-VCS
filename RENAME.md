@@ -14,7 +14,8 @@
 
 ``git --version``
 
-![20201016_163410 1](https://user-images.githubusercontent.com/66506609/96243082-71b06f80-0fce-11eb-9a03-940defed1612.png)
+![1](https://user-images.githubusercontent.com/72733261/96359248-e0124080-113a-11eb-96fd-ef6dfbd503ad.PNG)
+
 
 
 ### Menambahkan Global Config
@@ -29,7 +30,8 @@
 
 `$ git config --global user.email “nama_user”`
 
-![20201016_163452 1](https://user-images.githubusercontent.com/66506609/96243249-a8868580-0fce-11eb-954a-39270ac9c26c.png)
+![2](https://user-images.githubusercontent.com/72733261/96359255-f15b4d00-113a-11eb-814c-b78c2e96d956.PNG)
+
 
 ### Perintah Dasar Git
 
@@ -76,7 +78,8 @@ $ cd latihan1``
 `$ git add README.md`
 * File **README.md** berhasil ditambahkan.
 
-![Screenshot (50)](https://user-images.githubusercontent.com/66506609/96245078-221f7300-0fd1-11eb-9171-a25f2bdbfa35.png)
+![3](https://user-images.githubusercontent.com/72733261/96359276-2ebfda80-113b-11eb-92b7-209942bcf3b0.PNG)
+
 
 
 ### `Commit` (Menyimpan perubahan ke database)
